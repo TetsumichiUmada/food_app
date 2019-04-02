@@ -1,0 +1,38 @@
+.
+├── data
+│   ├── food-101
+│   │   ├── license_agreement.txt
+│   │   ├── meta
+│   │   └── README.txt
+│   ├── test
+│   │   ├── 000.apple_pie
+│   │   ├── 001.baby_back_ribs
+│   │   ├── 002.baklava
+│   │    ....
+│   │   ├── 097.takoyaki
+│   │   ├── 098.tiramisu
+│   │   ├── 099.tuna_tartare
+│   │   └── 100.waffles
+│   ├── train
+│   │   ├── 000.apple_pie
+│   │   ├── 001.baby_back_ribs
+│   │   ├── 002.baklava
+│	│	....
+│   │   ├── 097.takoyaki
+│   │   ├── 098.tiramisu
+│   │   ├── 099.tuna_tartare
+│   │   └── 100.waffles
+│   └── valid
+│       ├── 000.apple_pie
+│       ├── 001.baby_back_ribs
+│       ├── 002.baklava
+│ 		....
+│       ├── 097.takoyaki
+│       ├── 098.tiramisu
+│       ├── 099.tuna_tartare
+│       └── 100.waffles
+
+
+
+
+
